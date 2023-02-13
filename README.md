@@ -5,17 +5,15 @@
 Requirement
 - macOS 13 (Ventura)
 - Apple ID (and iCloud Drive)
+- Testflight
 
-[Download](https://raw.githubusercontent.com/Vocaltale/vocaltale.github.io/main/downloads/vocaltale-macos.zip)
-
-or
-
-[Beta Testing URL](https://testflight.apple.com/join/86stBLF2)
+[Beta Testing URL](https://testflight.apple.com/join/fAXy3LwY)
 
 ## iOS (Alpha Testing)
 
 Requirement
 - iOS 16
 - same Apple ID (for iCloud Drive to work)
+- Testflight
 
 [Beta testing URL](https://testflight.apple.com/join/fAXy3LwY)
